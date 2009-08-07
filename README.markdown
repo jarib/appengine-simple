@@ -9,8 +9,8 @@ Setup
 Dev server + deploy
 ======================
 
-jruby -S rake appengine:server
-jruby -S rake appengine:deploy EMAIL=<your email> PASSWORD=<your password>
+    jruby -S rake appengine:server
+    jruby -S rake appengine:deploy EMAIL=<your email> PASSWORD=<your password>
   
 
 Thanks
